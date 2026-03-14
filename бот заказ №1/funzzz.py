@@ -17,7 +17,7 @@ API_TOKEN = '8739690833:AAFRCEsPd7FcphwcP56KpHs7dIEfHMrMPoQ'
 REVIEWS_URL = 'https://otzovik.com/reviews/funpay_ru-birzha_igrovih_cennostey/'
 SUPPORT_URL = 'https://t.me/FunpayManagerGifts'
 NEWS_URL = 'https://t.me/NewsFunpayBot'
-MANAGER_USERNAME = '@FunpayManagerGifts'
+MANAGER_USERNAME = '@FunpayDealsManager'
 START_IMAGE_PATH = r"funpay.jpg"
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
