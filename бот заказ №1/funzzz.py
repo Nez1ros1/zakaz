@@ -15,7 +15,7 @@ from aiogram.enums import ParseMode
 # конфиг
 API_TOKEN = '8739690833:AAFRCEsPd7FcphwcP56KpHs7dIEfHMrMPoQ'
 REVIEWS_URL = 'https://otzovik.com/reviews/funpay_ru-birzha_igrovih_cennostey/'
-SUPPORT_URL = 'https://t.me/FunpayManagerGifts'
+SUPPORT_URL = '@FunpayDealsManager'
 NEWS_URL = 'https://t.me/NewsFunpayBot'
 MANAGER_USERNAME = '@FunpayDealsManager'
 START_IMAGE_PATH = r"funpay.jpg"
